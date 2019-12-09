@@ -1,4 +1,4 @@
-**[Learn elisp the hard way](https://github.com/hypernumbers/learn_elisp_the_hard_way/)
+**[Learn elisp the hard way](https://github.com/hypernumbers/learn_elisp_the_hard_way/)**
 
 A book about learning eLisp for customising Emacs the hard way - see the Gist https://gist.github.com/754568 http://learn-elisp-for-emacs.org
 
