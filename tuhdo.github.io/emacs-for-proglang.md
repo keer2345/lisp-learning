@@ -4,6 +4,25 @@
 
 </center>
 
+
+<!-- vim-markdown-toc GFM -->
+
+* [Before using Emacs](#before-using-emacs)
+    * [Emacs and SML in Linux](#emacs-and-sml-in-linux)
+    * [Optional but recommended: Swap Control and Capslock](#optional-but-recommended-swap-control-and-capslock)
+    * [Optional: changing Emacs look and feel](#optional-changing-emacs-look-and-feel)
+* [General basic Emacs commands](#general-basic-emacs-commands)
+    * [Command](#command)
+    * [Emacs Key Notation](#emacs-key-notation)
+    * [Some basic commands](#some-basic-commands)
+        * [Basic editing commands](#basic-editing-commands)
+* [Commands for SML](#commands-for-sml)
+* [Commands for Racket](#commands-for-racket)
+* [Geiser commands](#geiser-commands)
+    * [What is Geiser?](#what-is-geiser)
+
+<!-- vim-markdown-toc -->
+
 # Before using Emacs
 ## Emacs and SML in Linux
 安装 emacs 和 smlnj:

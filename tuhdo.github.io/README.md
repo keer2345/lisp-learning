@@ -5,7 +5,6 @@
  </center>
 
 
-> Table of Contents
 
 # Book: Operating Systems: From 0 to 1
 - Operating Systems: From 0 to 1
@@ -16,6 +15,6 @@
 - Setup C/C++ Development Environment for Emacs
 - A Package in a league of its own: Helm
 - Exploring large projects with Projectile and Helm Projectile
-- [Emacs for Programming Languages course on Coursera]
+- [Emacs for Programming Languages course on Coursera](https://github.com/keer2345/lisp-learning/blob/master/tuhdo.github.io/emacs-for-proglang.md)
 - Setup Emacs with PDF Tools and Xwidgets web browser on Windows
 - Peek definition with Emacs frame
